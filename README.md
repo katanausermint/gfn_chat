@@ -59,6 +59,8 @@ Tip: double-click a user in the **Online** list to start a private message, or d
 2. Open the script in PyDroid 3 and run it — the Tkinter interface works there too.
 3. Connect as a client to a PC running the server (make sure the PC firewall allows the port).
 
+![PHONE](81fa0b95-bf85-4295-b81d-25a868999f42.jpeg)
+
 ## Security notes
 
 - The self-signed certificate is generated locally, so the client uses `CERT_NONE` verification mode. This is fine for a trusted local network, but do **not** expose the server to the internet without additional hardening.
