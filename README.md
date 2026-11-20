@@ -30,7 +30,7 @@ Licensed under the GNU General Public License v3.0.
 1. Run the script:
 
    ```
-   python CHATGFN_fixed.py
+   python "CHATGFN_fixed EN.py"
    ```
 
 2. Enter a nickname (up to 24 characters, no spaces) and a port (default `7777`).
